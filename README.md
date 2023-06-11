@@ -27,6 +27,8 @@ This is a simple two-player ping pong game built using Python's Turtle module. T
 - If the ball touches the edges, the player on the opposite side scores a point.
 - The game will end when one player reaches a specified score limit of 10.
 
+## **Gameplay Image**
+
 ![image](https://github.com/latif-muhammad/PingPong/assets/123078982/7dfdfcc5-599c-48b0-95ab-900e8ea34372)
 
 ## Author
