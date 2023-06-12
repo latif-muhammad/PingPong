@@ -33,6 +33,7 @@ This is a simple two-player ping pong game built using Python's Turtle module. T
 
 ## Author
 - Muhammad Latif
+- email: muhammadlatifadd199@gmail.com
 - GitHub: [GitHub Profile](https://github.com/latif-muhammad)
 
 Feel free to modify and experiment with the code to add more features or customize the gameplay according to your preferences.
