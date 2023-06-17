@@ -15,8 +15,8 @@ This is a simple two-player ping pong game built using Python's Turtle module. T
 3. Open a terminal or command prompt and navigate to the project directory.
 4. Run the following command to start the game:
 5. The game window will open, and each player can control their paddle using the following keys:
-  - Player 1: W (up), S (down)
-  - Player 2: Up arrow (up), Down arrow (down)
+      - Player 1: W (up), S (down)
+      - Player 2: Up arrow (up), Down arrow (down)
 
 ## **Gameplay Instructions**
 
